@@ -13,7 +13,7 @@ for (var i = 0; i <= passwordLength; i++) {
 
    document.getElementById("password").value = password;
     
-  }
+  
 
 
 
